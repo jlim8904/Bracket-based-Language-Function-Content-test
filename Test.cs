@@ -4,7 +4,7 @@ class Test {
     
     const b = "{\"";
 
-    const c = 1; \\ {{{{}{{{{}{}}}{{{{
+    const c = 1; // {{{{}{{{{}{}}}{{{{
 
     const d = 1;
   }
